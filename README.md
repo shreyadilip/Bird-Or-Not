@@ -1,2 +1,2 @@
-# AI Image Classifier
-A simple classifier built with fastai that detects bird in the image given.
+# Deeplearning Model
+A pre-trained model built with fastai that detects bird in the given image.

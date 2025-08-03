@@ -1,2 +1,2 @@
-# Deeplearning Model
-A pre-trained model built with fastai that detects bird in the given image.
+# Deep learning model
+A model built with fastai that detects bird in the image.
